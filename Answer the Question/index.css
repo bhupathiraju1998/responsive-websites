@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.bg-container {
+    background-color: #f97576;
+
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.sub-container {
+    background-color: #ffffff;
+    padding: 19px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.sub-heading {
+    color: #2d3a35;
+    font-family: "Beer sherif";
+
+    font-size: 24px;
+}
+
+.para {
+    font-family: "Beer Sherif";
+    font-size: 18px;
+}
